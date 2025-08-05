@@ -9,7 +9,5 @@ class ModelKendaraan extends Model
 
     protected $table = 't_model_kendaraan';
     protected $primaryKey = 'id';  
-
-    
  
 }
