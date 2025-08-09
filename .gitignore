@@ -26,3 +26,6 @@ yarn-error.log
 /storage/app/public/content/
 /storage/app/public/framework/views/
 /storage/logs/
+/storage
+storage/
+storage
